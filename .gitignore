@@ -1,0 +1,22 @@
+
+# Python virtual environments
+.venv/
+
+# Dependency caches
+.dependency-cache/
+
+# Python cache
+__pycache__/
+
+# Local files
+.local/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Credentials and private keys
+*.pem
+*.key
+credentials*
+application_default_credentials.json
